@@ -1,4 +1,4 @@
-# QR-code-generator-
+# QR-bar-code-generator-scanner-UI-based-project #
 # This Project is under process for further improvements. #
 
 
@@ -6,15 +6,18 @@ this is a mini project with the basics of the Python package customtkinter and p
 # Download EXE for Windows platform #
 https://1drv.ms/u/s!Ah1JhWCSWrwWhwB5Zg_ZfeIOM1Ty?e=b0fWmb
 
-* UI Screenshot *
-![Screenshot 2024-06-08 173036](https://github.com/ankit-tejwan/QR-code-generator/assets/77053184/8697d011-5afd-4f17-a703-24c7fbbb16f8)
+* QR Code generator UI Screenshot *
+
+![qqqqqScreenshot 2024-07-06 111334](https://github.com/ankit-tejwan/QR-code-bar-code-generator-and-scanner-UI-based-software/assets/77053184/3c287ced-c0ea-4c5f-8d5e-95440f5504bb)
+
+* Bar Code generator UI Screenshot *
+  
+  ![bbbbScreenshot 2024-07-06 111414](https://github.com/ankit-tejwan/QR-code-bar-code-generator-and-scanner-UI-based-software/assets/77053184/5cdaec2f-285b-4da4-93f8-532d8b6dfce2)
 
 
+* QR Code Scanner UI Screenshot *
+  ![sssssQQQQQQScreenshot 2024-07-06 111605](https://github.com/ankit-tejwan/QR-code-bar-code-generator-and-scanner-UI-based-software/assets/77053184/61995407-0983-4030-ac49-1f91caa14c0c)
 
 
-
-
-# Final Working UI #
-
-
-![Screenshot 2024-06-08 173112](https://github.com/ankit-tejwan/QR-code-generator/assets/77053184/e735cf5d-4208-498f-b287-c906996fe7e4)
+* Bar Code Scanner UI Screenshot *
+  ![sssssBBBBBBBScreenshot 2024-07-06 111658](https://github.com/ankit-tejwan/QR-code-bar-code-generator-and-scanner-UI-based-software/assets/77053184/305d3fb3-4a38-42ad-a315-e4b94b04e454)
