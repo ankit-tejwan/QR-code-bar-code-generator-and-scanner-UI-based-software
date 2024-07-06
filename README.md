@@ -14,7 +14,7 @@ https://1drv.ms/u/s!Ah1JhWCSWrwWhwB5Zg_ZfeIOM1Ty?e=b0fWmb
 
 
 
-* Final Working UI *
+# Final Working UI #
 
 
 ![Screenshot 2024-06-08 173112](https://github.com/ankit-tejwan/QR-code-generator/assets/77053184/e735cf5d-4208-498f-b287-c906996fe7e4)
