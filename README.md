@@ -2,7 +2,7 @@
 # This Project is under process for further improvements. #
 
 
-this is a mini project with the basics of the Python package customtkinter and pyqrcode along with the 3rd semester.
+This is a mini project with the basics of the Python package customtkinter and pyqrcode along with my project team in the 3rd semester.
 # Download EXE for Windows platform #
 https://1drv.ms/u/s!Ah1JhWCSWrwWhwB5Zg_ZfeIOM1Ty?e=b0fWmb
 
