@@ -1,5 +1,5 @@
 # QR-code-generator-
-# This Project is under process for further improvements.#
+# This Project is under process for further improvements. #
 
 
 this is a mini project with the basics of the Python package customtkinter and pyqrcode along with the 3rd semester.
