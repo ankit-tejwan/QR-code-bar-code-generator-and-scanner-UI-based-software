@@ -20,6 +20,6 @@ https://1drv.ms/u/s!Ah1JhWCSWrwWhwB5Zg_ZfeIOM1Ty?e=b0fWmb
 ![sssssQQQQQQScreenshot 2024-07-06 111605](https://github.com/ankit-tejwan/QR-code-bar-code-generator-and-scanner-UI-based-software/assets/77053184/61995407-0983-4030-ac49-1f91caa14c0c)
 
 
-* Bar Code Scanner UI Screenshot *
+# Bar Code Scanner UI Screenshot #
 
 ![sssssBBBBBBBScreenshot 2024-07-06 111658](https://github.com/ankit-tejwan/QR-code-bar-code-generator-and-scanner-UI-based-software/assets/77053184/305d3fb3-4a38-42ad-a315-e4b94b04e454)
