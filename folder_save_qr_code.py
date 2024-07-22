@@ -4,6 +4,10 @@ import pyqrcode
 from PIL import Image, ImageTk
 import datetime
 import os
+import warnings
+# ignore warning
+warnings.filterwarnings("ignore")
+
 
 # Create the main application window
 app = ctk.CTk()
@@ -84,7 +88,7 @@ display_label.pack(expand=True)
 
 # Create and place the 'Exit' button
 exit_button = ctk.CTkButton(master=app, text="Exit", hover_color="red", command=on_exit)
-exit_button.place(relx=0.9, rely=0.9, anchor=ctk.CENTER)
+exit_button.place(relx=0.82, rely=0.9, anchor=ctk.CENTER)
 
 # Start the main event loop
 app.mainloop()
