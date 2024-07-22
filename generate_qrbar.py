@@ -6,6 +6,9 @@ import barcode
 from barcode.writer import ImageWriter
 import datetime
 import os
+import warnings
+# ignore warning
+warnings.filterwarnings("ignore")
 
 # Create the main application window
 app = ctk.CTk()
