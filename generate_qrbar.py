@@ -1,3 +1,5 @@
+# this script generate qr bar code both and save them accordingly.
+
 import customtkinter as ctk
 from tkinter import StringVar, messagebox
 import pyqrcode
