@@ -1,3 +1,4 @@
+# this Script only generate QR code with border 
 import customtkinter as ctk
 from tkinter import StringVar, messagebox
 import pyqrcode
